@@ -9,6 +9,7 @@ import logo from '../../assets/images/logo.png';
 import * as S from './styles';
 
 export function Home() {
+    function tetse() {}
     return (
         <S.Container>
             <StatusBar style="light" />
