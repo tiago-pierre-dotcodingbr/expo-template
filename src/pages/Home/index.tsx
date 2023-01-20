@@ -19,7 +19,7 @@ export function Home() {
                 <S.SecondBox>
                     <S.Title>Dotcoding</S.Title>
                     <S.Description>
-                        Template incial para novos projetos.
+                        Template incial para novos projetos!
                     </S.Description>
                 </S.SecondBox>
             </S.Content>
